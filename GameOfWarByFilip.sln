@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfWarByFilip", "GameOfWarByFilip.csproj", "{CBD45098-80AD-4BC3-BCE7-A460D48900C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBD45098-80AD-4BC3-BCE7-A460D48900C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD45098-80AD-4BC3-BCE7-A460D48900C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD45098-80AD-4BC3-BCE7-A460D48900C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD45098-80AD-4BC3-BCE7-A460D48900C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45DAD22A-E61E-457B-8151-44DBE945B9BA}
+	EndGlobalSection
+EndGlobal
